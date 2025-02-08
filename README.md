@@ -8,4 +8,4 @@
 
 タイトル画面は以下の通り。
 
-!(docs/images/figure1.png)
+![No date](docs/images/figure1.png)
