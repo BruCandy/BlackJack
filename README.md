@@ -8,4 +8,6 @@
 
 タイトル画面は以下の通り。
 
-![No date](docs/images/figure1.png)
+<p align="center">
+  <img src="docs/images/figure1.png" alt="No　date" width="300" height="300>
+</p>
