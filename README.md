@@ -42,7 +42,11 @@ A: 1または11として、状況に応じて有利な方を自動適用。
 ゲーム中の画面は以下の通り。
 
 <p align="center">
-  <img src="docs/images/figure2.png" alt="No　date" width="300" height="300">
+  <img src="docs/images/figure5.png" alt="No　date" width="300" height="300">
+</p>
+
+<p align="center">
+  <img src="docs/images/figure4.png" alt="No　date" width="300" height="300">
 </p>
 
 <p align="center">
@@ -50,6 +54,6 @@ A: 1または11として、状況に応じて有利な方を自動適用。
 </p>
 
 <p align="center">
-  <img src="docs/images/figure4.png" alt="No　date" width="300" height="300">
+  <img src="docs/images/figure2.png" alt="No　date" width="300" height="300">
 </p>
 
