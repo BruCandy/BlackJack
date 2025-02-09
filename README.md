@@ -51,9 +51,13 @@ A: 1または11として、状況に応じて有利な方を自動適用。
   <img src="docs/images/figure4.png" alt="No　date" width="300" height="300">
 </p>
 
+「UPキー」で勝負をすると、ディーラーがカードを引き、ディーラのカードの左端から次第に表から裏へと変わる。
+
 <p align="center">
   <img src="docs/images/figure3.png" alt="No　date" width="300" height="300">
 </p>
+
+ゲーム結果の表示後、「DOWNキー」でスタート画面に戻る。
 
 <p align="center">
   <img src="docs/images/figure2.png" alt="No　date" width="300" height="300">
