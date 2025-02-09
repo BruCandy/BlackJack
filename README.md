@@ -39,11 +39,13 @@ A: 1または11として、状況に応じて有利な方を自動適用。
   <img src="docs/images/figure1.png" alt="No　date" width="300" height="300">
 </p>
 
-ゲーム中の画面は以下の通り。
+ゲーム中の画面は以下の通り。画面の右上と左下にある手はコインをいじっているような動作を続けている。
 
 <p align="center">
   <img src="docs/images/figure5.png" alt="No　date" width="300" height="300">
 </p>
+
+「SPACEキー」でカードを追加すると、画面外の右からプレイヤーの手元へカードが平行移動する。
 
 <p align="center">
   <img src="docs/images/figure4.png" alt="No　date" width="300" height="300">
